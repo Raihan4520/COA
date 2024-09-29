@@ -1,0 +1,16 @@
+.MODEL SMALL
+.STACK 100H
+.DATA
+.CODE MAIN
+MAIN PROC
+    MOV AX,@DATA
+    MOV DS,AX
+    
+    MOV AL,30H
+    
+    AND AL,0FH
+    
+    OR AL,30H
+    
+    MAIN ENDP
+END MAIN
