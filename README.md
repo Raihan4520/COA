@@ -1,6 +1,6 @@
 # Computer Organization and Architecture (COA) - AIUB
 
-This repository contains lab code pictures and practice codes from the **Computer Organization and Architecture (COA)** course, completed at the American International University - Bangladesh (AIUB). The lab work primarily used the **EMU8086** emulator.
+This repository contains lab code pictures and practice codes from the **Computer Organization and Architecture (COA)** course, completed at the American International University - Bangladesh (AIUB). The lab work primarily used the **emu8086** emulator.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -8,13 +8,13 @@ This repository contains lab code pictures and practice codes from the **Compute
 - [Repository Structure](#repository-structure)
   - [Lab Code Pictures](#lab-code-pictures)
   - [Practice Codes](#practice-codes)
-- [EMU8086](#emu8086)
+- [emu8086](#emu8086)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
 
 ## Introduction
 
-This repository includes pictures of lab codes and practice codes written during the COA course at AIUB. The course focused on fundamental concepts of computer organization, including assembly language programming, CPU architecture, and memory management. The labs and assignments provided hands-on experience using the EMU8086 emulator.
+This repository includes pictures of lab codes and practice codes written during the COA course at AIUB. The course focused on fundamental concepts of computer organization, including assembly language programming, CPU architecture, and memory management. The labs and assignments provided hands-on experience using the emu8086 emulator.
 
 ## Course Overview
 
@@ -57,11 +57,11 @@ For more details on the course, refer to the [AIUB Undergraduate Course Catalog]
 
 These codes helps strengthen the understanding of computer architecture and assembly language.
 
-## EMU8086
+## emu8086
 
-The lab work for this course was done using the **EMU8086** emulator, which allows for the execution and simulation of assembly language programs for the 8086 microprocessor. EMU8086 provides a visual representation of registers and memory, making it easier to debug and understand low-level machine operations.
+The lab work for this course was done using the **emu8086** emulator, which allows for the execution and simulation of assembly language programs for the 8086 microprocessor. emu8086 provides a visual representation of registers and memory, making it easier to debug and understand low-level machine operations.
 
-To run these programs on your machine, you'll need to download and install EMU8086. Visit the [official website](https://www.emu8086.com) for more information.
+To run these programs on your machine, you'll need to download and install emu8086.
 
 ## How to Use
 
@@ -72,7 +72,7 @@ To explore the lab code pictures and practice materials, follow these steps:
     git clone https://github.com/Raihan4520/COA.git
     ```
 2. Navigate to the appropriate folder (Mid Term, Final Term, or Practice Codes) to view the images of the assembly code.
-3. To replicate the lab codes or practice them, install EMU8086 and type the programs manually into the emulator or open practice codes in the emulator.
+3. To replicate the lab codes or practice them, install emu8086 and type the programs manually into the emulator or open practice codes in the emulator.
 
 ## Contact
 
