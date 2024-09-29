@@ -6,8 +6,6 @@ This repository contains lab code pictures and practice codes from the **Compute
 - [Introduction](#introduction)
 - [Course Overview](#course-overview)
 - [Repository Structure](#repository-structure)
-  - [Lab Code Pictures](#lab-code-pictures)
-  - [Practice Codes](#practice-codes)
 - [emu8086](#emu8086)
 - [How to Use](#how-to-use)
 - [Contact](#contact)
