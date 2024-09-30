@@ -1,6 +1,6 @@
 # Computer Organization and Architecture (COA) - AIUB
 
-This repository contains lab code pictures and practice codes from the **Computer Organization and Architecture (COA)** course, completed at the American International University - Bangladesh (AIUB). The lab work primarily used the **emu8086** emulator.
+This repository contains lab code pictures and practice codes from the **Computer Organization and Architecture (COA)** course, completed at **American International University - Bangladesh (AIUB)**. The lab work primarily used the **emu8086** emulator.
 
 ## Table of Contents
 - [Introduction](#introduction)
